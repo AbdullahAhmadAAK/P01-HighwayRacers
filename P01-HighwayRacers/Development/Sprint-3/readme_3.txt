@@ -36,12 +36,11 @@ LIST OF REQUIREMENTS COMPLETED IN THE SPRINT 3
 
 <List down use cases completed in the current sprint>
 
-1. shifting remote collaboration setup from git to sourcetree.
-2. Side rails extension of collider vertically
-3. made changes in Start screen UI and end screen UI to make them relevant to game
-4. Joining a character with the bike.
-5. Implementation of life collectible after every 10-15 terrains
-6. Implementation of cars as obstacles in city terrain
+1. Side rails extension of collider vertically
+2. made changes in Start screen UI and end screen UI to make them relevant to game
+3. Joining a character with the bike.
+4. Implementation of life collectible after every 10-15 terrains
+5. Implementation of cars as obstacles in city terrain
 
 
 
