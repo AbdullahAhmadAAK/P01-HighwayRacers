@@ -52,47 +52,37 @@ LIST OF REQUIREMENTS COMPLETED SO FAR
 
 
 1. The main screen which displays the options to play game.
-
 2. Bike forward movement.
-
 3. Bike sideways movement.
-
 4. Camera coordinated with bike.
-
 5. Camera effects with respect to bike movement.
-
 6. Bike tilt during sideways movement.
-
 7. Infinite path generation of tracks.
-
 8. Tyres rotation. 
-
 9. Add different obstacles on tracks.
-
 10. Differnt terrains creation; city, forest and rocky.
-
 11. Add weather conditions.
-
 12. Infinite generation of terrains.
-
 13. UI pause screen.
-
 14. UI end screen.
-
 15. Background Music of the game.
-
 16. Sound effect of bike engine.
-
 17. Sound effect of bike collision
-
 18. Accurate set center of tyres of rotation. 
-
 19. Add sky view in the game. 
-
 20. Calculate time of game running.
-
 21. Calculate distance travelled by the bike. 
-
+22. Difficulty increases dynamically.
+23. Realistic Collision (Sound + particle effects)
+24. Pooling of terrains.
+25. Adding more obstacles on tracks.
+26. Converted obstacles into flat speed breakers.
+27. Adding coins on the track.
+28. Side rails extension of collider vertically
+29. Made changes in Start screen UI and end screen UI to make them relevant to game
+30. Joining a character with the bike.
+31. Implementation of life collectible after every 10-15 terrains
+32. Implementation of cars as obstacles in city terrain
 
 
 
