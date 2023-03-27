@@ -36,13 +36,13 @@ LIST OF REQUIREMENTS COMPLETED IN THE SPRINT 4
 <List down use cases completed in the current sprint>
 
 1. Remove shaky camera effect
-2. move camera closer and directly behind the bike
+2. Move camera closer and directly behind the bike
 3. Convert to mobile and change UI accordingly
 4. Add sound for coin collectible's collection
-5. display of high score in start and end screen
-6. fix pausing of screen of game on pressing pause button
+5. Display of high score in start and end screen
+6. Fix pausing of screen of game on pressing pause button
 7. Implementation of audio controller
-8. implement gradual bike movement
+8. Implement gradual bike movement
 
 
 
@@ -55,59 +55,45 @@ LIST OF REQUIREMENTS COMPLETED SO FAR
 
 
 1. The main screen which displays the options to play game.
-
 2. Bike forward movement.
-
 3. Bike sideways movement.
-
 4. Camera coordinated with bike.
-
 5. Camera effects with respect to bike movement.
-
 6. Bike tilt during sideways movement.
-
 7. Infinite path generation of tracks.
-
 8. Tyres rotation. 
-
 9. Add different obstacles on tracks.
-
 10. Differnt terrains creation; city, forest and rocky.
-
 11. Add weather conditions.
-
 12. Infinite generation of terrains.
-
 13. UI pause screen.
-
 14. UI end screen.
-
 15. Background Music of the game.
-
 16. Sound effect of bike engine.
-
 17. Sound effect of bike collision
-
 18. Accurate set center of tyres of rotation. 
-
 19. Add sky view in the game. 
-
 20. Calculate time of game running.
-
 21. Calculate distance travelled by the bike. 
-
-22. shifting remote collaboration setup from git to sourcetree.
-
-23. Side rails extension of collider vertically
-
-24. made changes in Start screen UI and end screen UI to make them relevant to game
-
-25. Joining a character with the bike.
-
-26. Implementation of life collectible after every 10-15 terrains
-
-27. Implementation of cars as obstacles in city terrain
-
+22. Difficulty increases dynamically.
+23. Realistic Collision (Sound + particle effects)
+24. Pooling of terrains.
+25. Adding more obstacles on tracks.
+26. Converted obstacles into flat speed breakers.
+27. Adding coins on the track.
+28. Side rails extension of collider vertically
+29. Made changes in Start screen UI and end screen UI to make them relevant to game
+30. Joining a character with the bike.
+31. Implementation of life collectible after every 10-15 terrains
+32. Implementation of cars as obstacles in city terrain
+33. Remove shaky camera effect
+34. Move camera closer and directly behind the bike
+35. Convert to mobile and change UI accordingly (responsive to different screen sizes)
+36. Add sound for coin collectible's collection
+37. Display high score in start and end screen
+38. Fix pausing of screen of game on pressing pause button
+39. Implementation of audio controller
+40. implement gradual bike acceleration
 
 
 
@@ -119,7 +105,7 @@ LIST OF REQUIREMENTS COMPLETED SO FAR
 HOW TO ACCESS THE SYSTEM
 
 
-1. apk version (to be implemented)
+1. APK version provided alongside this readme file
 
 
 
