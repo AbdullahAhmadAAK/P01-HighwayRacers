@@ -105,7 +105,8 @@ LIST OF REQUIREMENTS COMPLETED SO FAR
 HOW TO ACCESS THE SYSTEM
 
 
-1. APK version provided alongside this readme file
+1. Use APK version on this link:
+https://drive.google.com/drive/folders/1ehvR7iQkqjllJtjrDWF3Dzrbgb1xFylI?usp=sharing
 
 
 
